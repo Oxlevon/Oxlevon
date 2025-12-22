@@ -70,10 +70,17 @@ I am a **Software Engineer** 💻 specializing in the intersection of **Software
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oxlevon&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oxlevon&theme=tokyonight&hide_border=true" width="48%" />
+<div align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Oxlevon&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxlevon&layout=compact&theme=tokyonight&hide_border=true&hide=cython&langs_count=5"
+    height="180"
+  />
 </div>
+
 
 ---
 
