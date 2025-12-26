@@ -25,7 +25,7 @@
 
 ##  <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" height="35" align="center"></picture> About Me
 
-I am a **Software Engineer** 💻 specializing in the intersection of **Software Developments Machine Learning, and Hardware**. I focus on building "Real-World Intelligence"—systems that don't just exist on a screen but interact with the physical world.
+I'm a **Software Engineer** 💻 specializing in the intersection of **Software Developments Machine Learning, and Hardware**. I focus on building "Real-World Intelligence"—systems that don't just exist on a screen but interact with the physical world.
 
 * 🤖 **Expertise:** Machine Learning & Neural Networks
 * 👁️ **Vision:**<code> Computer Vision (Face Recognition & Object Detection)</code>
@@ -70,16 +70,22 @@ I am a **Software Engineer** 💻 specializing in the intersection of **Software
 
 ## 📊 GitHub Analytics
 
-<div align="left">
+<div align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Oxlevon&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oxlevon&show_icons=true&theme=tokyonight&hide_border=true&cache_buster=1"
+    alt="Oxlevon's GitHub Stats"
+    width="49%"
   />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxlevon&layout=compact&theme=tokyonight&hide_border=true&hide=cython&langs_count=5"
-    height="180"
+    alt="Oxlevon's Top Langs"
+    width="49%"
   />
+
 </div>
+
 
 
 ---
